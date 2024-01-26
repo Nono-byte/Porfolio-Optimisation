@@ -1,6 +1,8 @@
 # Porfolio-Optimisation
 
-This project explored the concept of portfolio optimisation using the Python programming language. We focused on constructing two distinct portfolios: an equal-weighted portfolio and an optimized portfolio.
+This project explored the concept of portfolio optimisation using the Python programming language. We focused on constructing two distinct portfolios: an equal-weighted portfolio and an optimised portfolio.
+
+Our porfolio consists of the following stocks: SPY (S&P 500),	AMD (Advanced Micro Devices),	MSFT (Microsoft),	GOOGL (Google)
 
 The equal-weighted portfolio was created by distributing an equal allocation of $10,000 across four carefully selected stocks. We calculated the cumulative return, mean daily return, standard deviation daily return, Sharpe ratio, and annualized Sharpe ratio for this portfolio.
 
